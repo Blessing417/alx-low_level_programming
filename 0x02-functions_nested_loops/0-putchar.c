@@ -1,9 +1,9 @@
 #include "main.h"
 /**
-* *main - print_putchar
-* is wrtten by ibukun
-* Return: 0
-*/
+ * main - print_putchar
+ * is wrtten by ibukun
+ * Return: 0
+ */
 
 int main(void)
 {
